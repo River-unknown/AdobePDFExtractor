@@ -62,4 +62,4 @@ def process_all_pdfs(input_dir="/app/input", output_dir="/app/output"):
 
 if __name__ == "__main__":
     # process_all_pdfs()
-    # process_all_pdfs(input_dir="input", output_dir="output")
+     process_all_pdfs(input_dir="input", output_dir="output")
