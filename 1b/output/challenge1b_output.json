@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cuisine.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Restaurants and Hotels.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T11:05:23.066870Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 1,
+      "section_title": "AutoExtracted-Section-1",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page": 2,
+      "section_title": "AutoExtracted-Section-2",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 14,
+      "section_title": "AutoExtracted-Section-3",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page": 7,
+      "section_title": "AutoExtracted-Section-4",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page": 1,
+      "section_title": "AutoExtracted-Section-5",
+      "importance_rank": 5
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 1,
+      "refined_text": "Ultimate Guide to Activities and Things to Do in the South of France  Introduction  The South of France, with its stunning coastline, picturesque villages, and vibrant cities, o\ufb00ers  a wealth of activities and experiences for travelers. Whether you're seeking adventure,  relaxation, or cultural enrichment, this region has something for everyone. This guide will  take you through a variety of activities and must-see attractions to help you plan an  unforgettable trip."
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page": 2,
+      "refined_text": "Types of Food  The cuisine in the South of France is diverse, reflecting the region's rich history and cultural  influences. Here are some key types of food you can expect to find:  \u2022   Seafood: With its extensive coastline, the South of France o\ufb00ers an abundance of fresh  seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with  Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea  bass, and mussels marini\u00e8re. The region's proximity to the Mediterranean Sea ensures  that the seafood is always fresh and flavorful.  \u2022   Proven\u00e7al Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive  oil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential  Proven\u00e7al dishes. Proven\u00e7al cuisine also includes dishes like tapenade, a spread made  from olives, capers, and anchovies, and pissaladi\u00e8re, a savory tart topped with  caramelized onions, olives, and anchovies.  \u2022   Ni\u00e7oise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Ni\u00e7oise,  a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other  Ni\u00e7oise specialties include pan bagnat, a sandwich made with tuna, vegetables, and  olive oil, and daube, a slow-cooked beef stew with red wine and vegetables.  \u2022   Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cooked  casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish.  Occitan cuisine also includes dishes like garbure, a thick soup made with cabbage,  beans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod  spread.  \u2022   Basque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like  piperade, a pepper and tomato stew, and axoa, a veal stew with peppers. Basque  cuisine is also known for its pintxos, small snacks typically served in bars, and g\u00e2teau  Basque, a traditional Basque cake filled with pastry cream or cherry jam."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 14,
+      "refined_text": "Conclusion  The South of France o\ufb00ers a wide range of dining and accommodation options to suit every  budget and preference. Whether you're looking for budget-friendly eateries, family-friendly  spots, upscale dining, or luxurious experiences, this guide will help you find the perfect places  to eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming  villages of Provence, the South of France promises an unforgettable travel experience. Bon  voyage!"
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page": 7,
+      "refined_text": "\u2022   Cheese Tasting: The South of France is home to a variety of delicious cheeses,  including Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a  farm to sample these cheeses and learn about their production. Many cheese  producers o\ufb00er tours and tastings, giving you the opportunity to discover the unique  flavors and textures of the region's cheeses.  \u2022   Pastry Workshops: French pastries are renowned worldwide, and the South of France  is no exception. Join a pastry workshop to learn how to make classic French pastries  like croissants, \u00e9clairs, and macarons. These workshops are a fun and interactive way  to improve your baking skills and take home some delicious treats."
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "page": 1,
+      "refined_text": "A Culinary Journey Through the South of France  Introduction  The South of France, known for its stunning landscapes and charming villages, is also a  paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors,  fresh ingredients, and traditional recipes passed down through generations. This guide will  take you through the di\ufb00erent types of food, famous dishes, must-visit restaurants, renowned  wine regions, and the types of wines they produce to help you plan an unforgettable culinary  adventure."
+    }
+  ]
+}
