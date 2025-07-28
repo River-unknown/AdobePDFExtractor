@@ -43,7 +43,7 @@ def extract_outline_from_pdf(pdf_path):
                     result["outline"].append({
                         "level": level,
                         "text": stripped,
-                        "page": i + 1
+                        "page": i
                     })
                     break
 
